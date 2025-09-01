@@ -1,0 +1,1502 @@
+[
+    {
+        "question":  "What does the word \u0027psychology\u0027 literally mean?",
+        "options":  [
+                        "Study of life",
+                        "Study of the mind",
+                        "Study of society",
+                        "Study of religion"
+                    ],
+        "answer":  "Study of the mind"
+    },
+    {
+        "question":  "Which domain of development includes attention, memory and problem solving?",
+        "options":  [
+                        "Physical domain",
+                        "Cognitive domain",
+                        "Socioemotional domain",
+                        "Moral domain"
+                    ],
+        "answer":  "Cognitive domain"
+    },
+    {
+        "question":  "Development that proceeds from head to toe is called:",
+        "options":  [
+                        "Proximodistal",
+                        "Cephalocaudal",
+                        "Orthogenetic",
+                        "Sequential"
+                    ],
+        "answer":  "Cephalocaudal"
+    },
+    {
+        "question":  "Which principle describes development from the centre of the body outward?",
+        "options":  [
+                        "Cephalocaudal",
+                        "Proximodistal",
+                        "Orthogenetic",
+                        "Epigenetic"
+                    ],
+        "answer":  "Proximodistal"
+    },
+    {
+        "question":  "What does the orthogenetic principle state?",
+        "options":  [
+                        "Development goes from specific to general",
+                        "Development proceeds from undifferentiated to differentiated",
+                        "Development halts after infancy",
+                        "Development is random"
+                    ],
+        "answer":  "Development proceeds from undifferentiated to differentiated"
+    },
+    {
+        "question":  "One of the goals of developmental psychology is to:",
+        "options":  [
+                        "Describe behaviour",
+                        "Teach only adults",
+                        "Focus on economics",
+                        "Design buildings"
+                    ],
+        "answer":  "Describe behaviour"
+    },
+    {
+        "question":  "Another key goal of developmental psychology is to:",
+        "options":  [
+                        "Explain behaviour",
+                        "Ignore childhood",
+                        "Remove learning",
+                        "Only test students"
+                    ],
+        "answer":  "Explain behaviour"
+    },
+    {
+        "question":  "A further goal of developmental psychology is to:",
+        "options":  [
+                        "Predict developmental changes",
+                        "Paint classrooms",
+                        "Increase school hours",
+                        "Design uniforms"
+                    ],
+        "answer":  "Predict developmental changes"
+    },
+    {
+        "question":  "Which goal involves helping to influence and control behaviour for lasting change?",
+        "options":  [
+                        "Description",
+                        "Explanation",
+                        "Prediction",
+                        "Change"
+                    ],
+        "answer":  "Change"
+    },
+    {
+        "question":  "Which prenatal stage covers 0–2 weeks after conception?",
+        "options":  [
+                        "Germinal stage",
+                        "Embryonic stage",
+                        "Fetal stage",
+                        "Neonatal stage"
+                    ],
+        "answer":  "Germinal stage"
+    },
+    {
+        "question":  "During which prenatal stage are major organs formed?",
+        "options":  [
+                        "Germinal",
+                        "Embryonic",
+                        "Fetal",
+                        "Infancy"
+                    ],
+        "answer":  "Embryonic"
+    },
+    {
+        "question":  "Which prenatal stage lasts from about 9 weeks until birth?",
+        "options":  [
+                        "Germinal",
+                        "Embryonic",
+                        "Fetal",
+                        "Postnatal"
+                    ],
+        "answer":  "Fetal"
+    },
+    {
+        "question":  "What is implantation in prenatal development?",
+        "options":  [
+                        "Fertilization of sperm and egg",
+                        "Attachment of blastocyst to uterus",
+                        "Birth process",
+                        "Formation of amniotic fluid"
+                    ],
+        "answer":  "Attachment of blastocyst to uterus"
+    },
+    {
+        "question":  "Which of the following is a common teratogen?",
+        "options":  [
+                        "Folic acid",
+                        "Alcohol",
+                        "Balanced diet",
+                        "Exercise"
+                    ],
+        "answer":  "Alcohol"
+    },
+    {
+        "question":  "An example of a biological threat to prenatal development is:",
+        "options":  [
+                        "Radiation",
+                        "Chromosomal disorder",
+                        "Lead exposure",
+                        "Smoking"
+                    ],
+        "answer":  "Chromosomal disorder"
+    },
+    {
+        "question":  "What does a karyotype show?",
+        "options":  [
+                        "A baby\u0027s weight",
+                        "Chromosome pairs in a cell",
+                        "A person\u0027s memories",
+                        "A language skill"
+                    ],
+        "answer":  "Chromosome pairs in a cell"
+    },
+    {
+        "question":  "DNA primarily contains information for:",
+        "options":  [
+                        "Cooking recipes",
+                        "Building proteins and life functions",
+                        "Weather forecasts",
+                        "School schedules"
+                    ],
+        "answer":  "Building proteins and life functions"
+    },
+    {
+        "question":  "What is a gene?",
+        "options":  [
+                        "A cell organelle",
+                        "A unit of heredity that encodes a protein",
+                        "A reflex",
+                        "A type of memory"
+                    ],
+        "answer":  "A unit of heredity that encodes a protein"
+    },
+    {
+        "question":  "An allele is:",
+        "options":  [
+                        "A chromosome",
+                        "A variant form of a gene",
+                        "A neurotransmitter",
+                        "A reflex"
+                    ],
+        "answer":  "A variant form of a gene"
+    },
+    {
+        "question":  "The observable traits of an organism are called the:",
+        "options":  [
+                        "Genotype",
+                        "Allele",
+                        "Phenotype",
+                        "Karyotype"
+                    ],
+        "answer":  "Phenotype"
+    },
+    {
+        "question":  "Which chromosome was mentioned in the notes in relation to sickle cell disease?",
+        "options":  [
+                        "Chromosome 11",
+                        "Chromosome 21",
+                        "Chromosome X",
+                        "Chromosome 7"
+                    ],
+        "answer":  "Chromosome 11"
+    },
+    {
+        "question":  "What is the primary function of the placenta?",
+        "options":  [
+                        "Produce sperm",
+                        "Exchange nutrients and gases between mother and fetus",
+                        "Store memories",
+                        "Control reflexes"
+                    ],
+        "answer":  "Exchange nutrients and gases between mother and fetus"
+    },
+    {
+        "question":  "Which delivery method is surgical?",
+        "options":  [
+                        "Vaginal birth",
+                        "Home birth",
+                        "Cesarean section",
+                        "Water birth"
+                    ],
+        "answer":  "Cesarean section"
+    },
+    {
+        "question":  "Which reflex causes infants to turn their mouths toward a touch on the cheek?",
+        "options":  [
+                        "Moro reflex",
+                        "Rooting reflex",
+                        "Babinski reflex",
+                        "Stepping reflex"
+                    ],
+        "answer":  "Rooting reflex"
+    },
+    {
+        "question":  "The sucking reflex is important for:",
+        "options":  [
+                        "Walking",
+                        "Feeding",
+                        "Talking",
+                        "Vision"
+                    ],
+        "answer":  "Feeding"
+    },
+    {
+        "question":  "When a newborn\u0027s toes fan upward when the foot is stroked, this is the:",
+        "options":  [
+                        "Moro reflex",
+                        "Babinski reflex",
+                        "Stepping reflex",
+                        "Palmar reflex"
+                    ],
+        "answer":  "Babinski reflex"
+    },
+    {
+        "question":  "Which reflex makes newborns move their legs as if to walk when held upright?",
+        "options":  [
+                        "Startle reflex",
+                        "Stepping reflex",
+                        "Sucking reflex",
+                        "Grasp reflex"
+                    ],
+        "answer":  "Stepping reflex"
+    },
+    {
+        "question":  "Which reflex involves infants flinging arms out in response to a sudden noise?",
+        "options":  [
+                        "Rooting reflex",
+                        "Moro reflex",
+                        "Babinski reflex",
+                        "Stepping reflex"
+                    ],
+        "answer":  "Moro reflex"
+    },
+    {
+        "question":  "Which motor skill is a fine motor milestone?",
+        "options":  [
+                        "Crawling",
+                        "Grasping a small object",
+                        "Walking",
+                        "Running"
+                    ],
+        "answer":  "Grasping a small object"
+    },
+    {
+        "question":  "Which is a gross motor milestone usually achieved by around 12 months?",
+        "options":  [
+                        "Cooing",
+                        "Standing and walking",
+                        "Writing",
+                        "Typing"
+                    ],
+        "answer":  "Standing and walking"
+    },
+    {
+        "question":  "How long does the WHO recommend exclusive breastfeeding?",
+        "options":  [
+                        "3 months",
+                        "6 months",
+                        "9 months",
+                        "12 months"
+                    ],
+        "answer":  "6 months"
+    },
+    {
+        "question":  "Which condition is caused by severe protein deficiency in early childhood?",
+        "options":  [
+                        "Marasmus and Kwashiorkor",
+                        "Asthma",
+                        "Diabetes",
+                        "Hypertension"
+                    ],
+        "answer":  "Marasmus and Kwashiorkor"
+    },
+    {
+        "question":  "Puberty initiates which developmental period?",
+        "options":  [
+                        "Infancy",
+                        "Childhood",
+                        "Adolescence",
+                        "Old age"
+                    ],
+        "answer":  "Adolescence"
+    },
+    {
+        "question":  "Menarche refers to a girl\u0027s:",
+        "options":  [
+                        "First word",
+                        "First menstrual period",
+                        "First tooth",
+                        "First walk"
+                    ],
+        "answer":  "First menstrual period"
+    },
+    {
+        "question":  "Which theorist proposed four cognitive stages including sensorimotor and formal operational?",
+        "options":  [
+                        "Vygotsky",
+                        "Piaget",
+                        "Skinner",
+                        "Bandura"
+                    ],
+        "answer":  "Piaget"
+    },
+    {
+        "question":  "Object permanence is typically achieved by the end of which Piagetian substage?",
+        "options":  [
+                        "Early reflexive substage",
+                        "Sensorimotor stage",
+                        "Formal operational stage",
+                        "Preoperational stage"
+                    ],
+        "answer":  "Sensorimotor stage"
+    },
+    {
+        "question":  "Centration, focusing on a single feature, is characteristic of which stage?",
+        "options":  [
+                        "Sensorimotor",
+                        "Preoperational",
+                        "Concrete operational",
+                        "Formal operational"
+                    ],
+        "answer":  "Preoperational"
+    },
+    {
+        "question":  "Which Piagetian stage involves logical operations about concrete objects?",
+        "options":  [
+                        "Preoperational",
+                        "Concrete operational",
+                        "Formal operational",
+                        "Sensorimotor"
+                    ],
+        "answer":  "Concrete operational"
+    },
+    {
+        "question":  "Formal operational thought enables:",
+        "options":  [
+                        "Simple reflexes",
+                        "Abstract and hypothetical reasoning",
+                        "Only motor skills",
+                        "Babbling"
+                    ],
+        "answer":  "Abstract and hypothetical reasoning"
+    },
+    {
+        "question":  "Which theorist emphasized culture and social interaction (ZPD)?",
+        "options":  [
+                        "Piaget",
+                        "Vygotsky",
+                        "Chomsky",
+                        "Skinner"
+                    ],
+        "answer":  "Vygotsky"
+    },
+    {
+        "question":  "ZPD stands for:",
+        "options":  [
+                        "Zone of proximal development",
+                        "Zero point of development",
+                        "Zone of primary development",
+                        "Zone of partial development"
+                    ],
+        "answer":  "Zone of proximal development"
+    },
+    {
+        "question":  "Scaffolding in education means:",
+        "options":  [
+                        "Permanent teacher control",
+                        "Temporary support tailored to learner\u0027s needs",
+                        "No adult involvement",
+                        "Using only tests"
+                    ],
+        "answer":  "Temporary support tailored to learner\u0027s needs"
+    },
+    {
+        "question":  "Which researcher developed social learning theory and the Bobo doll study?",
+        "options":  [
+                        "Skinner",
+                        "Bandura",
+                        "Pavlov",
+                        "Thorndike"
+                    ],
+        "answer":  "Bandura"
+    },
+    {
+        "question":  "Bandura\u0027s social learning theory highlights which process?",
+        "options":  [
+                        "Reinforcement only",
+                        "Observation and imitation",
+                        "Genetic programming",
+                        "Classical conditioning only"
+                    ],
+        "answer":  "Observation and imitation"
+    },
+    {
+        "question":  "Which researcher is most associated with operant conditioning?",
+        "options":  [
+                        "Pavlov",
+                        "Skinner",
+                        "Piaget",
+                        "Erikson"
+                    ],
+        "answer":  "Skinner"
+    },
+    {
+        "question":  "Thorndike\u0027s law of effect states that:",
+        "options":  [
+                        "Behaviours followed by pleasant consequences are likely to be repeated",
+                        "All behaviour is innate",
+                        "Learning requires no practice",
+                        "Pleasure reduces learning"
+                    ],
+        "answer":  "Behaviours followed by pleasant consequences are likely to be repeated"
+    },
+    {
+        "question":  "Pavlov\u0027s experiments demonstrated which type of learning?",
+        "options":  [
+                        "Operant conditioning",
+                        "Classical conditioning",
+                        "Social learning",
+                        "Cognitive mapping"
+                    ],
+        "answer":  "Classical conditioning"
+    },
+    {
+        "question":  "In classical conditioning, the unconditioned stimulus (US) elicits:",
+        "options":  [
+                        "A learned response",
+                        "An innate unconditioned response (UR)",
+                        "A conditioned stimulus",
+                        "A reinforcer"
+                    ],
+        "answer":  "An innate unconditioned response (UR)"
+    },
+    {
+        "question":  "Extinction in conditioning refers to:",
+        "options":  [
+                        "Strengthening a response",
+                        "Weakening of a conditioned response when the CS is presented without the US",
+                        "Permanent learning",
+                        "Immediate recovery"
+                    ],
+        "answer":  "Weakening of a conditioned response when the CS is presented without the US"
+    },
+    {
+        "question":  "Spontaneous recovery is:",
+        "options":  [
+                        "Permanent extinction",
+                        "Temporary return of an extinguished response",
+                        "Immediate punishment",
+                        "A textbook"
+                    ],
+        "answer":  "Temporary return of an extinguished response"
+    },
+    {
+        "question":  "Stimulus generalization occurs when:",
+        "options":  [
+                        "Only one stimulus elicits a response",
+                        "Similar stimuli elicit the conditioned response",
+                        "No response is produced",
+                        "Learning is impossible"
+                    ],
+        "answer":  "Similar stimuli elicit the conditioned response"
+    },
+    {
+        "question":  "Positive reinforcement does what to a behaviour?",
+        "options":  [
+                        "Decreases it",
+                        "Increases it",
+                        "Has no effect",
+                        "Destroys it"
+                    ],
+        "answer":  "Increases it"
+    },
+    {
+        "question":  "Negative reinforcement works by:",
+        "options":  [
+                        "Adding an unpleasant stimulus",
+                        "Removing an aversive stimulus to increase behavior",
+                        "Punishing behaviour",
+                        "Ignoring behaviour"
+                    ],
+        "answer":  "Removing an aversive stimulus to increase behavior"
+    },
+    {
+        "question":  "Punishment in operant terms is used to:",
+        "options":  [
+                        "Increase behaviour",
+                        "Decrease behaviour",
+                        "Measure IQ",
+                        "Teach language"
+                    ],
+        "answer":  "Decrease behaviour"
+    },
+    {
+        "question":  "Shaping in behaviorism is:",
+        "options":  [
+                        "Punishing every wrong response",
+                        "Gradually reinforcing successive approximations of a desired behaviour",
+                        "Forgetting previous learning",
+                        "Immediate mastery"
+                    ],
+        "answer":  "Gradually reinforcing successive approximations of a desired behaviour"
+    },
+    {
+        "question":  "Which schedule delivers reinforcement after a fixed number of responses?",
+        "options":  [
+                        "Fixed ratio",
+                        "Variable ratio",
+                        "Fixed interval",
+                        "Variable interval"
+                    ],
+        "answer":  "Fixed ratio"
+    },
+    {
+        "question":  "Which schedule delivers reinforcement after varying numbers of responses?",
+        "options":  [
+                        "Fixed ratio",
+                        "Variable ratio",
+                        "Fixed interval",
+                        "Continuous"
+                    ],
+        "answer":  "Variable ratio"
+    },
+    {
+        "question":  "Which schedule reinforces the first response after a fixed time period?",
+        "options":  [
+                        "Fixed interval",
+                        "Variable interval",
+                        "Fixed ratio",
+                        "Variable ratio"
+                    ],
+        "answer":  "Fixed interval"
+    },
+    {
+        "question":  "Variable interval schedule provides reinforcement after:",
+        "options":  [
+                        "A fixed number of responses",
+                        "A variable amount of time",
+                        "Every response",
+                        "Never"
+                    ],
+        "answer":  "A variable amount of time"
+    },
+    {
+        "question":  "Memory processes include:",
+        "options":  [
+                        "Encoding, storage, retrieval",
+                        "Observation, imitation, reinforcement",
+                        "Birth, growth, death",
+                        "Teaching, testing, grading"
+                    ],
+        "answer":  "Encoding, storage, retrieval"
+    },
+    {
+        "question":  "The sensory register holds information for roughly:",
+        "options":  [
+                        "Milliseconds to seconds",
+                        "Hours",
+                        "Days",
+                        "Years"
+                    ],
+        "answer":  "Milliseconds to seconds"
+    },
+    {
+        "question":  "Short-term or working memory capacity is often cited as:",
+        "options":  [
+                        "Unlimited",
+                        "7 ± 2 items",
+                        "100 items",
+                        "Zero"
+                    ],
+        "answer":  "7 ± 2 items"
+    },
+    {
+        "question":  "Long-term memory is characterized by:",
+        "options":  [
+                        "Very limited capacity",
+                        "Potentially vast and long-lasting storage",
+                        "Only procedural skills",
+                        "Only smells"
+                    ],
+        "answer":  "Potentially vast and long-lasting storage"
+    },
+    {
+        "question":  "Episodic memory stores:",
+        "options":  [
+                        "General knowledge",
+                        "Personal autobiographical events",
+                        "Motor skills",
+                        "Sound patterns"
+                    ],
+        "answer":  "Personal autobiographical events"
+    },
+    {
+        "question":  "Semantic memory stores:",
+        "options":  [
+                        "How to ride a bike",
+                        "Facts and general knowledge",
+                        "Short-term phone numbers",
+                        "Muscle memory"
+                    ],
+        "answer":  "Facts and general knowledge"
+    },
+    {
+        "question":  "Procedural memory includes:",
+        "options":  [
+                        "Facts about history",
+                        "How to perform skills like riding a bike",
+                        "Your first day at school",
+                        "Names of presidents"
+                    ],
+        "answer":  "How to perform skills like riding a bike"
+    },
+    {
+        "question":  "Priming memory refers to:",
+        "options":  [
+                        "Explicit recall",
+                        "An earlier stimulus facilitating later responses",
+                        "Loss of memory",
+                        "Sensory overload"
+                    ],
+        "answer":  "An earlier stimulus facilitating later responses"
+    },
+    {
+        "question":  "Which theory attributes forgetting to the fading of memory traces over time?",
+        "options":  [
+                        "Interference theory",
+                        "Decay theory",
+                        "Gestalt theory",
+                        "Behaviorism"
+                    ],
+        "answer":  "Decay theory"
+    },
+    {
+        "question":  "Proactive interference occurs when:",
+        "options":  [
+                        "New learning blocks old memories",
+                        "Old learning blocks new learning",
+                        "There is no forgetting",
+                        "Memories spontaneously recover"
+                    ],
+        "answer":  "Old learning blocks new learning"
+    },
+    {
+        "question":  "Retroactive interference occurs when:",
+        "options":  [
+                        "Old learning blocks new",
+                        "New learning blocks old",
+                        "No interference exists",
+                        "Forgetting is impossible"
+                    ],
+        "answer":  "New learning blocks old"
+    },
+    {
+        "question":  "Retrograde amnesia involves loss of:",
+        "options":  [
+                        "New learning only",
+                        "Old memories acquired before the event",
+                        "Procedural skills only",
+                        "Short-term memory only"
+                    ],
+        "answer":  "Old memories acquired before the event"
+    },
+    {
+        "question":  "Anterograde amnesia mainly affects:",
+        "options":  [
+                        "Recall of childhood",
+                        "Formation of new memories",
+                        "Motor skills",
+                        "Sensory memory"
+                    ],
+        "answer":  "Formation of new memories"
+    },
+    {
+        "question":  "Rehearsal in memory mainly refers to:",
+        "options":  [
+                        "Repeating information to maintain it in short-term memory",
+                        "Forgetting deliberately",
+                        "Punishing students",
+                        "Observational learning"
+                    ],
+        "answer":  "Repeating information to maintain it in short-term memory"
+    },
+    {
+        "question":  "Attention is important for memory because it:",
+        "options":  [
+                        "Distracts learners",
+                        "Allows encoding to occur",
+                        "Creates interference",
+                        "Destroys traces"
+                    ],
+        "answer":  "Allows encoding to occur"
+    },
+    {
+        "question":  "Organization as a memory strategy helps by:",
+        "options":  [
+                        "Making material disorganized",
+                        "Grouping information into meaningful chunks",
+                        "Increasing distractions",
+                        "Removing rehearsal"
+                    ],
+        "answer":  "Grouping information into meaningful chunks"
+    },
+    {
+        "question":  "Formative evaluation is used to:",
+        "options":  [
+                        "Assess during learning to improve instruction",
+                        "Only grade final exams",
+                        "Punish students",
+                        "Compare schools only"
+                    ],
+        "answer":  "Assess during learning to improve instruction"
+    },
+    {
+        "question":  "Summative evaluation is given:",
+        "options":  [
+                        "During the lesson",
+                        "At the end of instruction",
+                        "Prior to teaching",
+                        "Continuously without purpose"
+                    ],
+        "answer":  "At the end of instruction"
+    },
+    {
+        "question":  "Diagnostic evaluation is typically used to:",
+        "options":  [
+                        "Evaluate career paths",
+                        "Identify learners\u0027 strengths and weaknesses before instruction",
+                        "Celebrate achievements",
+                        "Publicize results"
+                    ],
+        "answer":  "Identify learners\u0027 strengths and weaknesses before instruction"
+    },
+    {
+        "question":  "A curriculum can best be defined as:",
+        "options":  [
+                        "A list of punishments",
+                        "An organised set of learning experiences",
+                        "A school timetable only",
+                        "A teacher\u0027s notes"
+                    ],
+        "answer":  "An organised set of learning experiences"
+    },
+    {
+        "question":  "The Tyler model is known for:",
+        "options":  [
+                        "Five unrelated steps",
+                        "Four fundamental questions guiding curriculum design",
+                        "Ignoring objectives",
+                        "Random content selection"
+                    ],
+        "answer":  "Four fundamental questions guiding curriculum design"
+    },
+    {
+        "question":  "Taba\u0027s model emphasizes starting curriculum development with:",
+        "options":  [
+                        "Government policy",
+                        "Teachers",
+                        "Textbook publishers",
+                        "Students only"
+                    ],
+        "answer":  "Teachers"
+    },
+    {
+        "question":  "Understanding by Design (UbD) is best described as:",
+        "options":  [
+                        "A teacher-only model",
+                        "Backward design focusing on desired outcomes",
+                        "A drill-and-practice approach",
+                        "A punishment-based model"
+                    ],
+        "answer":  "Backward design focusing on desired outcomes"
+    },
+    {
+        "question":  "The hidden curriculum refers to:",
+        "options":  [
+                        "What is explicitly taught",
+                        "Unstated social values and norms learned at school",
+                        "Extracurricular activities",
+                        "Test content"
+                    ],
+        "answer":  "Unstated social values and norms learned at school"
+    },
+    {
+        "question":  "The null curriculum is:",
+        "options":  [
+                        "What is intentionally left out of the curriculum",
+                        "All curricular content",
+                        "Extracurricular clubs",
+                        "Testing procedures"
+                    ],
+        "answer":  "What is intentionally left out of the curriculum"
+    },
+    {
+        "question":  "Which stakeholder group should be involved in curriculum evaluation?",
+        "options":  [
+                        "Only politicians",
+                        "All stakeholders including teachers and curriculum experts",
+                        "Only students",
+                        "Only parents"
+                    ],
+        "answer":  "All stakeholders including teachers and curriculum experts"
+    },
+    {
+        "question":  "A key reason for curriculum change is:",
+        "options":  [
+                        "Teacher uniform changes",
+                        "Cultural and societal needs",
+                        "Shorter school days",
+                        "Decor remodeling"
+                    ],
+        "answer":  "Cultural and societal needs"
+    },
+    {
+        "question":  "A barrier to curriculum innovation is often:",
+        "options":  [
+                        "Research-based design",
+                        "Parental resistance",
+                        "Teacher training",
+                        "Adequate funding"
+                    ],
+        "answer":  "Parental resistance"
+    },
+    {
+        "question":  "Curriculum evaluation contributes to:",
+        "options":  [
+                        "Increasing fees only",
+                        "Improving teaching methods and outcomes",
+                        "Closing schools",
+                        "Removing teachers"
+                    ],
+        "answer":  "Improving teaching methods and outcomes"
+    },
+    {
+        "question":  "Implementation evaluation focuses on:",
+        "options":  [
+                        "Curriculum rationale only",
+                        "Delivery procedures and how the curriculum is implemented",
+                        "Student hairstyles",
+                        "Textbook prices"
+                    ],
+        "answer":  "Delivery procedures and how the curriculum is implemented"
+    },
+    {
+        "question":  "Cost-effectiveness evaluation examines:",
+        "options":  [
+                        "Learning theories",
+                        "Economic efficiency of curriculum implementation",
+                        "Only test scores",
+                        "Teacher attendance"
+                    ],
+        "answer":  "Economic efficiency of curriculum implementation"
+    },
+    {
+        "question":  "Formative content in art education typically involves:",
+        "options":  [
+                        "Using materials to shape visual ideas",
+                        "Only reading art history",
+                        "Only exams",
+                        "Repeating information"
+                    ],
+        "answer":  "Using materials to shape visual ideas"
+    },
+    {
+        "question":  "Structural content in art focuses on:",
+        "options":  [
+                        "Organisation of visual elements",
+                        "Only moral lessons",
+                        "Only numbers",
+                        "Physical education"
+                    ],
+        "answer":  "Organisation of visual elements"
+    },
+    {
+        "question":  "Philosophical content in art education deals with:",
+        "options":  [
+                        "How to mix paints",
+                        "Understanding the nature and purpose of art",
+                        "Only practical skills",
+                        "Only fundraising"
+                    ],
+        "answer":  "Understanding the nature and purpose of art"
+    },
+    {
+        "question":  "Relational content in art education refers to:",
+        "options":  [
+                        "How art connects with other disciplines",
+                        "Learning only art history",
+                        "Ignoring other subjects",
+                        "Creating confusion"
+                    ],
+        "answer":  "How art connects with other disciplines"
+    },
+    {
+        "question":  "Historical content in art education aims to:",
+        "options":  [
+                        "Teach from past art traditions",
+                        "Promote modern trends only",
+                        "Ignore tradition",
+                        "Avoid museums"
+                    ],
+        "answer":  "Teach from past art traditions"
+    },
+    {
+        "question":  "Experiential learning in art emphasises:",
+        "options":  [
+                        "Learning by doing and hands-on practice",
+                        "Only reading textbooks",
+                        "Memorizing definitions",
+                        "Only lectures"
+                    ],
+        "answer":  "Learning by doing and hands-on practice"
+    },
+    {
+        "question":  "Play-based learning can be categorised as:",
+        "options":  [
+                        "Free play and guided play",
+                        "Only drills",
+                        "Only exams",
+                        "Only lectures"
+                    ],
+        "answer":  "Free play and guided play"
+    },
+    {
+        "question":  "Parten described stages of social play that include:",
+        "options":  [
+                        "Solitary, onlooker, parallel, associative, cooperative",
+                        "Only competitive play",
+                        "Only individual tasks",
+                        "Only adult-directed activities"
+                    ],
+        "answer":  "Solitary, onlooker, parallel, associative, cooperative"
+    },
+    {
+        "question":  "Rough-and-tumble play primarily supports:",
+        "options":  [
+                        "Antisocial behaviour",
+                        "Physical development and peer relations",
+                        "Only academic study",
+                        "No developmental benefit"
+                    ],
+        "answer":  "Physical development and peer relations"
+    },
+    {
+        "question":  "Sociodramatic play helps children to:",
+        "options":  [
+                        "Practice emotional regulation and social roles",
+                        "Avoid others",
+                        "Only watch TV",
+                        "Only imitate adults without learning"
+                    ],
+        "answer":  "Practice emotional regulation and social roles"
+    },
+    {
+        "question":  "Play-based learning\u0027s educational implication includes:",
+        "options":  [
+                        "Reducing self-initiated activity",
+                        "Supporting holistic development and imagination",
+                        "Replacing all academic subjects",
+                        "Eliminating teacher roles"
+                    ],
+        "answer":  "Supporting holistic development and imagination"
+    },
+    {
+        "question":  "Which principle states development is influenced by bothGenetics and environment?",
+        "options":  [
+                        "Cephalocaudal",
+                        "Epigenetic",
+                        "Development influenced by both genetic and environmental factors",
+                        "Orthogenetic"
+                    ],
+        "answer":  "Development influenced by both genetic and environmental factors"
+    },
+    {
+        "question":  "Asynchronous development refers to:",
+        "options":  [
+                        "All parts develop at same rate",
+                        "Uneven development across domains or body parts",
+                        "Immediate uniform growth",
+                        "No variation among individuals"
+                    ],
+        "answer":  "Uneven development across domains or body parts"
+    },
+    {
+        "question":  "Erikson\u0027s stage for infants is:",
+        "options":  [
+                        "Identity vs Role Confusion",
+                        "Trust vs Mistrust",
+                        "Industry vs Inferiority",
+                        "Intimacy vs Isolation"
+                    ],
+        "answer":  "Trust vs Mistrust"
+    },
+    {
+        "question":  "The basic virtue from Autonomy vs Shame is:",
+        "options":  [
+                        "Hope",
+                        "Will",
+                        "Care",
+                        "Wisdom"
+                    ],
+        "answer":  "Will"
+    },
+    {
+        "question":  "Which Erikson stage focuses on initiative versus guilt?",
+        "options":  [
+                        "Initiative vs Guilt",
+                        "Trust vs Mistrust",
+                        "Identity vs Role Confusion",
+                        "Generativity vs Stagnation"
+                    ],
+        "answer":  "Initiative vs Guilt"
+    },
+    {
+        "question":  "Industry vs Inferiority primarily occurs during which ages?",
+        "options":  [
+                        "0–1",
+                        "1–3",
+                        "5–12",
+                        "18–40"
+                    ],
+        "answer":  "5–12"
+    },
+    {
+        "question":  "Identity vs Role Confusion typically occurs during:",
+        "options":  [
+                        "Adolescence",
+                        "Infancy",
+                        "Middle adulthood",
+                        "Old age"
+                    ],
+        "answer":  "Adolescence"
+    },
+    {
+        "question":  "Kohlberg\u0027s pre-conventional level is mainly driven by:",
+        "options":  [
+                        "Universal ethical principles",
+                        "Social contract",
+                        "Punishment and self-interest",
+                        "Law and order"
+                    ],
+        "answer":  "Punishment and self-interest"
+    },
+    {
+        "question":  "Kohlberg\u0027s conventional level emphasizes:",
+        "options":  [
+                        "Personal moral principles",
+                        "Law and social order and conformity",
+                        "Random choice",
+                        "Physical growth"
+                    ],
+        "answer":  "Law and social order and conformity"
+    },
+    {
+        "question":  "At Kohlberg\u0027s post-conventional level, moral reasoning may be based on:",
+        "options":  [
+                        "Universal ethical principles",
+                        "Only punishment avoidance",
+                        "Random preferences",
+                        "Unrelated facts"
+                    ],
+        "answer":  "Universal ethical principles"
+    },
+    {
+        "question":  "The Heinz dilemma is used to study:",
+        "options":  [
+                        "Memory capacity",
+                        "Moral reasoning stages",
+                        "Language acquisition",
+                        "Motor development"
+                    ],
+        "answer":  "Moral reasoning stages"
+    },
+    {
+        "question":  "Emotional intelligence includes which component?",
+        "options":  [
+                        "Self-awareness",
+                        "Only IQ",
+                        "Running speed",
+                        "Height"
+                    ],
+        "answer":  "Self-awareness"
+    },
+    {
+        "question":  "Another component of emotional intelligence is:",
+        "options":  [
+                        "Self-management",
+                        "Only memory",
+                        "Astrology",
+                        "Reflexes"
+                    ],
+        "answer":  "Self-management"
+    },
+    {
+        "question":  "Social awareness in emotional intelligence refers to:",
+        "options":  [
+                        "Ignoring others",
+                        "Understanding others\u0027 emotions",
+                        "Physical coordination",
+                        "Only academic skill"
+                    ],
+        "answer":  "Understanding others\u0027 emotions"
+    },
+    {
+        "question":  "Relationship management as an EI skill helps with:",
+        "options":  [
+                        "Managing interactions and relationships",
+                        "Physical growth",
+                        "Only musical ability",
+                        "Eliminating peer contact"
+                    ],
+        "answer":  "Managing interactions and relationships"
+    },
+    {
+        "question":  "Nativist theory of language suggests:",
+        "options":  [
+                        "Language is entirely learned by reinforcement",
+                        "Humans have an innate language-acquisition device (LAD)",
+                        "Language is invented at school",
+                        "Language cannot be learned after birth"
+                    ],
+        "answer":  "Humans have an innate language-acquisition device (LAD)"
+    },
+    {
+        "question":  "Chomsky proposed the idea of:",
+        "options":  [
+                        "Operant chambers",
+                        "Language Acquisition Device (LAD)",
+                        "Behaviorist learning",
+                        "Classical conditioning"
+                    ],
+        "answer":  "Language Acquisition Device (LAD)"
+    },
+    {
+        "question":  "Behaviorist accounts of language stress:",
+        "options":  [
+                        "Innate grammar",
+                        "Reinforcement and imitation",
+                        "Only genetics",
+                        "Only Piagetian stages"
+                    ],
+        "answer":  "Reinforcement and imitation"
+    },
+    {
+        "question":  "Interactionist perspectives argue language arises from:",
+        "options":  [
+                        "Pure biology",
+                        "Neither environment nor biology",
+                        "Interaction of innate abilities and social input",
+                        "Only reinforcement"
+                    ],
+        "answer":  "Interaction of innate abilities and social input"
+    },
+    {
+        "question":  "Preverbal cooing typically emerges around:",
+        "options":  [
+                        "3–5 weeks",
+                        "2 years",
+                        "6 months",
+                        "5 years"
+                    ],
+        "answer":  "3–5 weeks"
+    },
+    {
+        "question":  "Babbling usually appears around which age?",
+        "options":  [
+                        "1–2 months",
+                        "6–7 months",
+                        "4 years",
+                        "10 years"
+                    ],
+        "answer":  "6–7 months"
+    },
+    {
+        "question":  "Holophrastic (single-word) period typically occurs at:",
+        "options":  [
+                        "0–6 months",
+                        "12–18 months",
+                        "5–6 years",
+                        "7–8 years"
+                    ],
+        "answer":  "12–18 months"
+    },
+    {
+        "question":  "Telegraphic speech often occurs during:",
+        "options":  [
+                        "0–6 months",
+                        "18–26 months",
+                        "Teenage years",
+                        "Adulthood"
+                    ],
+        "answer":  "18–26 months"
+    },
+    {
+        "question":  "Overregularization in language is exemplified by:",
+        "options":  [
+                        "Saying \u0027I eated\u0027",
+                        "Perfect grammar",
+                        "No speech",
+                        "Only singing"
+                    ],
+        "answer":  "Saying \u0027I eated\u0027"
+    },
+    {
+        "question":  "Which brain area is mainly linked to speech production?",
+        "options":  [
+                        "Wernicke\u0027s area",
+                        "Occipital lobe",
+                        "Broca\u0027s area",
+                        "Cerebellum"
+                    ],
+        "answer":  "Broca\u0027s area"
+    },
+    {
+        "question":  "Wernicke\u0027s area is primarily associated with:",
+        "options":  [
+                        "Speech production",
+                        "Comprehension of language",
+                        "Motor coordination",
+                        "Vision"
+                    ],
+        "answer":  "Comprehension of language"
+    },
+    {
+        "question":  "Broca\u0027s aphasia typically results in:",
+        "options":  [
+                        "Fluent meaningless speech",
+                        "Non-fluent, effortful speech with good comprehension",
+                        "Improved memory",
+                        "Perfect grammar"
+                    ],
+        "answer":  "Non-fluent, effortful speech with good comprehension"
+    },
+    {
+        "question":  "Wernicke\u0027s aphasia typically results in:",
+        "options":  [
+                        "Fluent but often nonsensical speech and poor comprehension",
+                        "Non-fluent speech",
+                        "Better articulation",
+                        "Enhanced hearing"
+                    ],
+        "answer":  "Fluent but often nonsensical speech and poor comprehension"
+    },
+    {
+        "question":  "Stuttering is characterized by:",
+        "options":  [
+                        "Smooth fluent speech",
+                        "Repetitions, prolongations and blocks",
+                        "Complete muteness",
+                        "Only whispered speech"
+                    ],
+        "answer":  "Repetitions, prolongations and blocks"
+    },
+    {
+        "question":  "Apraxia of speech refers to:",
+        "options":  [
+                        "A memory disorder",
+                        "Difficulty planning and producing speech movements despite intact muscles",
+                        "Only hearing loss",
+                        "An emotional issue"
+                    ],
+        "answer":  "Difficulty planning and producing speech movements despite intact muscles"
+    },
+    {
+        "question":  "Dysarthria results from:",
+        "options":  [
+                        "Weakness or paralysis of speech muscles",
+                        "Perfect articulation",
+                        "Enhanced voice",
+                        "Improved comprehension"
+                    ],
+        "answer":  "Weakness or paralysis of speech muscles"
+    },
+    {
+        "question":  "Factors that affect language development include all EXCEPT:",
+        "options":  [
+                        "Maturation",
+                        "Family income",
+                        "Shoe size",
+                        "School experience"
+                    ],
+        "answer":  "Shoe size"
+    },
+    {
+        "question":  "A classroom practice that supports language development is:",
+        "options":  [
+                        "Strict silence at all times",
+                        "Storytelling and role play",
+                        "Only rote memorization",
+                        "Avoiding conversation"
+                    ],
+        "answer":  "Storytelling and role play"
+    },
+    {
+        "question":  "Teachers serving as good speech models means:",
+        "options":  [
+                        "They provide accurate pronunciation and examples",
+                        "They never speak",
+                        "They only write on the board",
+                        "They punish speech errors"
+                    ],
+        "answer":  "They provide accurate pronunciation and examples"
+    },
+    {
+        "question":  "Play-based learning tends to promote:",
+        "options":  [
+                        "Only academic facts",
+                        "Holistic development including social and cognitive skills",
+                        "Reduced creativity",
+                        "Test-focused drills only"
+                    ],
+        "answer":  "Holistic development including social and cognitive skills"
+    },
+    {
+        "question":  "Nutrition affects physical development by influencing:",
+        "options":  [
+                        "Only intelligence",
+                        "Growth and health outcomes",
+                        "Shoe preferences",
+                        "Only social status"
+                    ],
+        "answer":  "Growth and health outcomes"
+    },
+    {
+        "question":  "Spermarche refers to:",
+        "options":  [
+                        "First menstrual period",
+                        "First ejaculation of sperm",
+                        "A memory stage",
+                        "A reflex"
+                    ],
+        "answer":  "First ejaculation of sperm"
+    },
+    {
+        "question":  "A critical period in development refers to:",
+        "options":  [
+                        "Any time of life",
+                        "A time when certain organs or skills are most vulnerable or receptive",
+                        "When tests are set",
+                        "When children go on holiday"
+                    ],
+        "answer":  "A time when certain organs or skills are most vulnerable or receptive"
+    },
+    {
+        "question":  "Gardner\u0027s theory of multiple intelligences proposes:",
+        "options":  [
+                        "One general intelligence only",
+                        "Several distinct intelligences such as linguistic, spatial, musical",
+                        "No intelligence differences",
+                        "IQ tests measure everything"
+                    ],
+        "answer":  "Several distinct intelligences such as linguistic, spatial, musical"
+    },
+    {
+        "question":  "Sternberg\u0027s triarchic theory includes which type?",
+        "options":  [
+                        "Physical intelligence",
+                        "Analytical, creative, and practical intelligence",
+                        "Only emotional intelligence",
+                        "Only social intelligence"
+                    ],
+        "answer":  "Analytical, creative, and practical intelligence"
+    },
+    {
+        "question":  "What is the \u0027law of readiness\u0027 in learning theory?",
+        "options":  [
+                        "Learning occurs only when content is hard",
+                        "Learning is effective when the learner is mentally and physically prepared",
+                        "Learning must always be forced",
+                        "Students must be punished to be ready"
+                    ],
+        "answer":  "Learning is effective when the learner is mentally and physically prepared"
+    },
+    {
+        "question":  "The \u0027law of exercise\u0027 justifies the need for:",
+        "options":  [
+                        "Punishment",
+                        "Project work",
+                        "Repetition and review",
+                        "Group discussions"
+                    ],
+        "answer":  "Repetition and review"
+    },
+    {
+        "question":  "Which principle ensures curriculum is adjusted to suit all learners?",
+        "options":  [
+                        "Coherence",
+                        "Differentiation",
+                        "Compactness",
+                        "Translation"
+                    ],
+        "answer":  "Differentiation"
+    },
+    {
+        "question":  "Which approach uses art history and criticism as tools for learning?",
+        "options":  [
+                        "Experiential approach",
+                        "Behavioural approach",
+                        "Art as a discipline",
+                        "Sensory approach"
+                    ],
+        "answer":  "Art as a discipline"
+    },
+    {
+        "question":  "Which technique encourages community involvement in art education?",
+        "options":  [
+                        "Group exams",
+                        "Art exhibitions",
+                        "Silent reading",
+                        "Solo performances"
+                    ],
+        "answer":  "Art exhibitions"
+    },
+    {
+        "question":  "In curriculum planning, the \u0027platform\u0027 refers to:",
+        "options":  [
+                        "The physical classroom",
+                        "The stage used in drama",
+                        "A statement of intent or belief",
+                        "The school compound"
+                    ],
+        "answer":  "A statement of intent or belief"
+    },
+    {
+        "question":  "Which is a core value of Ghana\u0027s Art Education philosophy?",
+        "options":  [
+                        "Conformity",
+                        "Originality and self-expression",
+                        "Foreign techniques",
+                        "Scientific research"
+                    ],
+        "answer":  "Originality and self-expression"
+    },
+    {
+        "question":  "What is one aim of experiential learning in art?",
+        "options":  [
+                        "Theoretical debates",
+                        "Copying textbooks",
+                        "Learning through hands-on experiences",
+                        "Avoiding tools and materials"
+                    ],
+        "answer":  "Learning through hands-on experiences"
+    },
+    {
+        "question":  "Which evaluation type focuses on economic efficiency?",
+        "options":  [
+                        "Formative evaluation",
+                        "Outcome evaluation",
+                        "Cost-effectiveness evaluation",
+                        "Operational evaluation"
+                    ],
+        "answer":  "Cost-effectiveness evaluation"
+    }
+]
